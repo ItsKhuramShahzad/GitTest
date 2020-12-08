@@ -3,5 +3,4 @@ Web Test
 Android
 .NET Development
 Java
-Point of Sale
-;;;;;;;
+Point of Sale...
